@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+    --colorBlue: #2196F3;
+    --colorWhite: #FFFFFF;
+    --colorBlack: black;
+    --colorGrey: #757575;
+}
+
+
+
+
+body {
+    font-family: "Roboto", sans-serif;
+
+}
+
+li {
+    list-style: none;
+}
+
+.div-first {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.ul-first {
+    display: flex;
+    justify-content: center;
+}
+
+.ul-second {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.ul-third {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.div-second {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.span-first {
+    color: #2196F3;
+}
+
+.span-second {
+    color: #2196F3;
+}
+
+.section-first {
+    background-color: #2F303A;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.h1-first {
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 44px;
+}
+
+.ul-forth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    max-width: 400px;
+}
+
+.button-first {
+    color: #FFFFFF;
+    background-color: #2196F3;
+    width: 216px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+button {
+    border: none;
+}
+
+header {
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+.li-first {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: #757575;
+}
+
+.ul-fifth {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.p-first {
+    max-width: 320px;
+}
+
+.h2-first {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.ul-sixth {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 40px;
+}
+
+.section-third {
+    background-color: #F5F4FA;
+    height: 500px;
+}
+
+.h2-second {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.ul-last {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-top: 30px;
+}
+
+.footer {
+    background-color: #2F303A;
+    height: 150px;
+}
+
+.ul-last-last {
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.li-second {
+    padding-bottom: 20px;
+}
+
+.li-third {
+    color: #FFFFFF;
+}
+
+.li-fourth {
+    color: #757575;
+}
